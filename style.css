@@ -1,1 +1,10 @@
-
+h1{
+	color: black;
+	font-family: times;
+	font-size: 80px
+}
+li{
+	color:black;
+	font-family: times;
+	font-size: 30px
+}
